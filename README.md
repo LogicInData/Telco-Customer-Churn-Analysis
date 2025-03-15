@@ -7,7 +7,7 @@ This project provides an in-depth analysis of the Telco Customer Churn Dataset f
 Tableau: For creating interactive visualizations and dashboards.
 
 ## DATASET
-Dataset: Telco Customer Churn Dataset from Kaggle.Download the dataset from Kaggle in here - <a href="https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset">Datasets</a>
+Dataset: Telco Customer Churn Dataset from Kaggle.Download the dataset from Kaggle in here - <a href="https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset">Dataset</a>
 
 ## Key Analysis Performed
 
