@@ -75,6 +75,10 @@ Dataset: Telco Customer Churn Dataset from Kaggle.Download the dataset from Kagg
 Tableau workbook with visualizations and dashboard.
 README.md: Project overview and instructions.
 
+# Tablaeu Public 
+View the Dasboard on Tableau Public - <a href="https://public.tableau.com/app/profile/aasa.kattula2119/viz/TelcoCustomerChurnAnalysis_17420625445950/CustomerchurnanalsisDashboard">Dashboard</a>
+
+
 # How to Use
 1. Clone or download this repository.
 2. Open the Tableau workbook (Tableau_Dashboard.twb) to interact with the dashboard.
